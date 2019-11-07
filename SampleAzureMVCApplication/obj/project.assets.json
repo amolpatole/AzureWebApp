@@ -12077,11 +12077,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\r1m1nrao\\Documents\\GitHub\\HexaTraining\\Hexa\\Azure\\SampleAzureMVCApplication\\SampleAzureMVCApplication.csproj",
+      "projectUniqueName": "c:\\Users\\r1m1nrao\\Documents\\Azure\\SampleAzureMVCApplication\\SampleAzureMVCApplication.csproj",
       "projectName": "SampleAzureMVCApplication",
-      "projectPath": "C:\\Users\\r1m1nrao\\Documents\\GitHub\\HexaTraining\\Hexa\\Azure\\SampleAzureMVCApplication\\SampleAzureMVCApplication.csproj",
+      "projectPath": "c:\\Users\\r1m1nrao\\Documents\\Azure\\SampleAzureMVCApplication\\SampleAzureMVCApplication.csproj",
       "packagesPath": "C:\\Users\\r1m1nrao\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\r1m1nrao\\Documents\\GitHub\\HexaTraining\\Hexa\\Azure\\SampleAzureMVCApplication\\obj\\",
+      "outputPath": "c:\\Users\\r1m1nrao\\Documents\\Azure\\SampleAzureMVCApplication\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
